@@ -1,4 +1,5 @@
 body{
+	background-image: url("Images/Icons.png");
 	background-color: #294F6D;
 	background-size: contain;
 }
@@ -20,10 +21,6 @@ nav{
 	font-family: Verdana;
 }
 
-.Nav,p{
-	opacity: 0.8;
-}
-
 li{
 	display: inline;
 }
@@ -43,10 +40,6 @@ a:visited{
 
 a:hover, a:active{
 	background-color: #718EA4;
-}
-
-.Main{
-	color: gray;
 }
 
 footer{

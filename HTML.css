@@ -1,11 +1,16 @@
 body{
+	background-image: url("Images/Coding.jpg");
 	background-color: #294F6D;
 	background-size: contain;
 }
 
-
 h1,p{
 	text-align: center;
+	color: white;
+}
+
+p{
+	font-size: 20pt;
 }
 
 header{
@@ -18,9 +23,6 @@ nav{
 	padding: 8px;
 	background-color: #496D89;
 	font-family: Verdana;
-}
-
-.Nav,p{
 	opacity: 0.8;
 }
 
@@ -43,10 +45,6 @@ a:visited{
 
 a:hover, a:active{
 	background-color: #718EA4;
-}
-
-.Main{
-	color: gray;
 }
 
 footer{
