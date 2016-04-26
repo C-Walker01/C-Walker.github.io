@@ -1,16 +1,21 @@
 body{
-	background-image: url("Images/Coding.jpg");
+	background-image: url("Images/Web.jpg");
 	background-color: #294F6D;
 	background-size: contain;
+	background-position: fixed;
 }
+
 
 h1,p{
 	text-align: center;
-	color: white;
 }
 
 p{
-	font-size: 25pt;
+	font-size: 20pt;
+}
+
+.Main{
+	color: white;
 }
 
 header{
@@ -46,7 +51,6 @@ a:visited{
 a:hover, a:active{
 	background-color: #718EA4;
 }
-
 
 footer{
 	border-top: 3px solid black;
