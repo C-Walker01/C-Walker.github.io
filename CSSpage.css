@@ -1,5 +1,5 @@
 body{
-	background-image: url("Images/Icons.png");
+	background-image: url("Images/CSS.png");
 	background-color: #294F6D;
 	background-size: contain;
 }
@@ -10,8 +10,12 @@ h1,p{
 }
 
 .heading{
-	color: black;
 	font-size: 15pt;
+}
+
+.Maincontent{
+	color: white;
+	text-align: center;
 }
 
 nav{
@@ -49,7 +53,8 @@ a:hover, a:active{
 
 footer{
 	border-top: 3px solid black;
-	text-align: center;
+	font-size: 12pt;
+
 }
 
 
